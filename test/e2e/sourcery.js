@@ -6,7 +6,7 @@ const userUnderTest = 'Martynas Šatas';
 const roleUnderTest = 'Admin';
 const menuButtons = ['Time Logging', 'Invoices', 'Projects', 'Clients', 'Time Entries', 'Tasks'];
 const colorBlue = 'rgba(64, 76, 237, 1)';
-
+//comment
 module.exports = {
     'Login to sourcebooks': function (browser) {
         browser
